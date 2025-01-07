@@ -1,1 +1,1 @@
-# wp_install
+Automasi Install WordPress Shell Script
