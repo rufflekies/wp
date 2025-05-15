@@ -4,7 +4,7 @@
 echo_green() {
     echo -e "\e[32m$1\e[0m"
 }
-
+#Define white
 echo_white() {
     echo -e "\e[37m$1\e[0m"
 }
